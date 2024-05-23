@@ -1,0 +1,20 @@
+.root {
+    background-color: #979595;
+
+    height: 10vh;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 100%;
+}
+
+.inner p {
+    color: white;
+
+    font-size: 20px;
+}

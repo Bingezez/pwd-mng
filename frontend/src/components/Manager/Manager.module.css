@@ -1,0 +1,24 @@
+.root {
+  width: 800px;
+  padding: 50px;
+  border: 1px solid #dedede;
+  margin: 50px auto;
+}
+
+.field {
+  margin-bottom: 20px !important;
+}
+
+.title {
+  text-align: center !important;
+  font-weight: bold !important;
+  margin-bottom: 30px !important;
+}
+
+.buttonMargin {
+  margin-right: 20px;
+}
+
+.inputMargin{
+  margin-top: 20px;
+}

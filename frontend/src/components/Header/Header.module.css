@@ -1,0 +1,76 @@
+.root {
+    background-color: #979595;
+
+    height: 10vh;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    height: 100%;
+    padding: 0px 50px;
+}
+
+.logo {
+    color: white;
+    background-color: #3fa9f0;
+
+    font-size: 25px;
+    padding: 5px 16px;
+    border-radius: 10px;
+
+    text-decoration: none;
+}
+
+.logo:hover {
+    color: black;
+    background-color: #ffffff;
+
+    transition: 1s;
+}
+
+.manager {
+    color: white;
+    background-color: #653ff0;
+
+    font-size: 25px;
+    padding: 5px 16px;
+    border-radius: 10px;
+
+    text-decoration: none;
+}
+
+.manager:hover {
+    color: black;
+    background-color: #ffffff;
+
+    transition: 1s;
+}
+
+.buttons Button {
+    margin-left: 10px;
+}
+  
+.buttons a {
+    color: white;
+
+    text-decoration: none;
+}
+
+.buttons a:hover {
+    color: rgb(0, 0, 0);
+}
+
+.userName {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.loading {
+    color: grey;
+    font-style: italic;
+    margin-right: 10px;
+}

@@ -1,0 +1,29 @@
+.root {
+    height: 80vh;
+    overflow: auto;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 8px;
+}
+
+.inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.inner h1 {
+}
+
+.inner p {
+}
